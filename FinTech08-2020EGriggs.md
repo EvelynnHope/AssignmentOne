@@ -80,38 +80,24 @@ Data collection maximization for existing and potential policyholders is a root 
 
 Addendum for FinTech Company Lemonade, Inc.
 
-1
- https://www.sec.gov
+1 https://www.sec.gov
 Form S-1 registration statement under the SEC act of 1933
-
 2 https://www.forbes.com/sites/jeffkauflin/2019/05/02/lemonade-fintech-insurance-unicorn/#7969ce046cde
+3 https://www.forbes.com/sites/kristinstoller/2019/04/11/fintech-insurer-lemonade-valued-at-more-than-2-billion-after-300-million-funding-deal/#417962dd2ee1
 
+4 https://www.crunchbase.com/organization/lemonade/company_financials
 
-3
-https://www.forbes.com/sites/kristinstoller/2019/04/11/fintech-insurer-lemonade-valued-at-more-than-2-billion-after-300-million-funding-deal/#417962dd2ee1
+5 https://www.pymnts.com/innovation/2020/lemonade-cfo-on-insurance-innovation-dilemma
 
-4
-https://www.crunchbase.com/organization/lemonade/company_financials
+6 https://www.telegraph.co.uk/technology/2020/08/07/entrepreneurs-trying-shake-centuries-old-insurance-industry/
 
-5
-https://www.pymnts.com/innovation/2020/lemonade-cfo-on-insurance-innovation-dilemma
-
-6
-https://www.telegraph.co.uk/technology/2020/08/07/entrepreneurs-trying-shake-centuries-old-insurance-industry/
-
-7
-Podcast: HowFintech Unicorn Lemonade is Disrupting Insurance
+7 Podcast: HowFintech Unicorn Lemonade is Disrupting Insurance
 Banking Transformed with Jim Marcus http://podcasts.google.com
 
-8
-https://www.iamagazine.com/viewpoints/5-insurtech-trends-for-2020#:~:text=Here%20are%20five%20of%20the%20biggest%20InsurTech%20trends%20that%20agents,Data%20analytics%20will%20empower%20agents.&text=%E2%80%9CAnalytics%2C%20data%20insights%20using%20artificial,understand%20their%20book%20of%20business.
+8 https://www.iamagazine.com/viewpoints/5-insurtech-trends-for-2020#:~:text=Here%20are%20five%20of%20the%20biggest%20InsurTech%20trends%20that%20agents,Data%20analytics%20will%20empower%20agents.&text=%E2%80%9CAnalytics%2C%20data%20insights%20using%20artificial,understand%20their%20book%20of%20business.
 
-9
-https://www.lemonade.com/blog/lemonade-launch-metrics-exposed/
-
-10
-https://fit-pro.com/article-4227-Top-5-Key-Performance-Indicators-(KPIs).html
-11
-https://www.thebalance.com/best-digital-insurance-4160643
+9 https://www.lemonade.com/blog/lemonade-launch-metrics-exposed/
+10 https://fit-pro.com/article-4227-Top-5-Key-Performance-Indicators-(KPIs).html
+11 https://www.thebalance.com/best-digital-insurance-4160643
 
 
