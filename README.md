@@ -1,1 +1,3 @@
-# Lemonade-Insurance_CaseStudy
+
+
+![LemonadeLOGO](./lemonadeinslogo.png)
